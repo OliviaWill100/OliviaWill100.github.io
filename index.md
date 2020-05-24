@@ -1,4 +1,4 @@
-[Bacon](/bacon}
+[Bacon](/bacon)
 
 ## Welcome to GitHub Pages
 
