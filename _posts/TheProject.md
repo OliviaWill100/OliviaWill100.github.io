@@ -8,3 +8,7 @@ The Khirbet el-Rai Exhibition Project is a student-led project with two primary 
 This is a 12-18-month project. The following blog posts will detail my role in this project, the work which will be published, and the work yet to be done.
  
  ## Contents:
+ 1. [The Creation of a Catalogue](/Users/oliviacaplin/Documents/GitHub/OliviaWill100.github.io/_posts/TheCreationofaCatalogue.md)
+ 2. [Writing Blog Posts](/Users/oliviacaplin/Documents/GitHub/OliviaWill100.github.io/_posts/WritingBlogPosts.md)
+ 3. [A History of the Ancient Israel Program](/Users/oliviacaplin/Documents/GitHub/OliviaWill100.github.io/_posts/AHistory.md)
+ 4. [Curators Pick: The Lamp-and-Bowl Deposit](/Users/oliviacaplin/Documents/GitHub/OliviaWill100.github.io/_posts/Curatorspick.md)
