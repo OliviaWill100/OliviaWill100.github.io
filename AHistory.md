@@ -1,7 +1,9 @@
 # A History of Macquarie's Ancient Israel Program
+
 In the glory of the sunrise on the 27th of January 2020, 32 students from Macquarie University began their hike up the sloping hill of Khirbet el-Ra'i to start their second full day of excavation. With sore limbs and a sense of excitement permeating through the group, they began to wonder - *what would we find today?* By the end of three weeks of excavation, that question could be answered with an array of incredible treasures. An intact foundation deposit, a bronze bracelet, a bronze smiting god figurine, and a small animal figure were amongst the ancient trove of this season’s uncovered finds. The opportunity for Macquarie students to learn excavation methods on a historically vibrant biblical site is just one of the opportunities provided by the Ancient Israel Program, which is founded and directed by Macquarie’s own Dr Gil Davis.
 
 The Ancient Israel Program was founded in 2012, with goals to:
+
    * Broaden the ancient Israel offering in Macquarie’s already diverse department of Ancient history
 
    * Advocate for the inclusion of ancient Israel in the school curriculum and;
