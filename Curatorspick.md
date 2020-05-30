@@ -2,7 +2,9 @@
 
 ## The foundation deposits of Khirbet el-Rai
 
-Foundation deposits are an archaeological phenomenon found throughout the ancient world, including ancient Egypt, the Levant, and ancient Mesopotamia. During the 2018-2020 excavations of Khirbet el-Rai in Israel, four foundation deposits were discovered underneath Canaanite houses. These foundation deposits represent an ancient and well-attested ritual, which was practiced prior to the construction both domestic and public buildings. These four deposits from Khirbet el-Rai, called ‘lamp-and-bowl’ deposits, will feature in of the upcoming Khirbet el-Rai exhibition in Macquarie’s new Museum. 
+Foundation deposits are an archaeological phenomenon found throughout the ancient world, including ancient Egypt, Nubia, the Levant, and ancient Mesopotamia. During the 2018-2020 excavations of Khirbet el-Rai in Israel, four foundation deposits were discovered underneath Canaanite houses. These foundation deposits represent an ancient and well-attested ritual, which was practiced prior to the construction both domestic and public buildings. These four deposits from Khirbet el-Rai, called ‘lamp-and-bowl’ deposits, will feature in of the upcoming Khirbet el-Rai exhibition in Macquarie’s new Museum. 
+
+![foundation deposit](images/Foundationdepositedit.png)
 
 ## WHat are Foundation Deposits?
 
@@ -14,4 +16,16 @@ It is then unsurprising that foundation deposits have been discovered under dwel
 
 ## The Lamp-and-Bowl Deposit
 
-Although the contents of a foundation deposits varied greatly in neighbouring cultures, specific ‘lamp-and-bowl’ deposits have been discovered in building foundations all across Israel. Dating to the Late Bronze Age and the Early Iron Age, these deposits consisted of a lamp placed within a bowl, and either one or two inverted bowls placed on top. This ‘lamp-and-bowl’ combination would then be placed beneath domestic dwellings, public buildings, Governor residencies and also Egyptian fortresses (in Canaan). The lamps and bowls appear unused, and thus specifically made for the purpose of depositing. Despite foundation deposits being a widespread ancient practice, these ‘lamp-and-bowl’ deposits are completely unique to ancient Israel. The significance of the lamp and bowl is yet to be determined.  
+Although the contents of a foundation deposits varied greatly in neighbouring cultures, specific ‘lamp-and-bowl’ deposits have been discovered in building foundations all across Israel. Dating to the Late Bronze Age and the Early Iron Age, these deposits consisted of a lamp placed within a bowl, and either one or two inverted bowls placed on top. This ‘lamp-and-bowl’ combination would then be placed beneath domestic dwellings, public buildings, Governor residencies and also Egyptian fortresses (in Canaan). The lamps and bowls appear unused, and thus specifically made for the purpose of depositing. Despite foundation deposits being a widespread ancient practice, these ‘lamp-and-bowl’ deposits are completely unique to ancient Israel. The significance of the lamp and bowl is yet to be determined.
+
+### Bibliography
+
+Ambos, C. (2010), "Building Rituals from the First Millenium BC: The Evidence from the Ritual Texts", in M.J, Boda & J. Novotny (eds.), *From the Foundations to the Crenellations: Essays on Temple Building in the Ancient Near East and Hebrew Bible*, pp. 221-237.
+
+Bunimovitz, S. & Zimhoni, O. (1993), "'Lamp-and-Bowl' Foundation Deposits in Canaan", *Israel Exploration Journal*, pp. 99-125.
+
+Keimer, K.H., Garfinkel, Y., Ganor, S., Rollston, C. & Ben-Schlomo, D. (2019) "Khirbet al-Ra'i in the Judean Shephelah: the 2015-2019 Excavation Seasons", *Strata: The Bulletin of the Anglo-Israel Archaeological Society*, pp. 11-44.
+
+Müller, M. (2018) "Foundation Deposits and Strategies of Place-Making at Tell el-Dab'a/Avaris", *Near Eastern Archaeology, 81(3)*, pp. 182-190.
+
+Weinstein, J.M. (2005), "Foundation Deposits", in D.B Redford (ed.), *Oxford Encyclopedia of Ancient Egypt*.
