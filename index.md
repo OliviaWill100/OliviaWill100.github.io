@@ -1,39 +1,14 @@
-[Bacon](/bacon)
+# The Project
+From 2018 until 2020, Macquarie University has partnered with the Hebrew University of Jerusalem to excavate the ancient site of Khirbet el-Rai. These excavations led to exciting discoveries of Canaanite material culture, as well as receiving significant press coverage over its identification as [Ziklag](https://www.heritagedaily.com/2020/04/rare-figurines-uncovered-at-lost-biblical-city/127574). During the final season in 2020, Dr Gil Davis began discussions with Professor Yosef Garfinkel (Co-director of the dig, and Professor at the Hebrew University) and Saar Ganor (from the Israel Antiquity Authority) for Macquarie University to host an exhibition of the important finds in the newly built museum. And thus, the Khirbet el-Rai Exhibition Project was born. 
 
-## Welcome to GitHub Pages
+The Khirbet el-Rai Exhibition Project is a student-led project with two primary goals:
+1.    Launch an exhibition in early 2021 
+2.    Create and publish an accompanying catalogue 
 
-You can use the [editor on GitHub](https://github.com/OliviaWill100/OliviaWill100.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OliviaWill100/OliviaWill100.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This is a 12-18-month project. The following blog posts will detail my role in this project, the work which will be published, and the work yet to be done.
+ 
+ ## Contents:
+ 1. [The Creation of a Catalogue](TheCreationofaCatalogue.md)
+ 2. [Writing Blog Posts](WritingBlogPosts.md)
+ 3. [A History of the Ancient Israel Program](AHistory.md)
+ 4. [Curators Pick: The Lamp-and-Bowl Deposit](Curatorspick.md)
