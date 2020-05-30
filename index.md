@@ -8,10 +8,10 @@ The Khirbet el-Rai Exhibition Project is a student-led project with two primary 
 2. Create and publish an accompanying catalogue 
 
 This is a 12-18-month project. The following blog posts will detail my role in this project, the work which will be published, and the work yet to be done.
+
+## Contents
  
- ## Contents
- 
- 1. [The Creation of a Catalogue](TheCreationofaCatalogue.md)
- 2. [Writing Blog Posts](WritingBlogPosts.md)
- 3. [A History of the Ancient Israel Program](AHistory.md)
- 4. [Curators Pick: The Lamp-and-Bowl Deposit](Curatorspick.md)
+1. [The Creation of a Catalogue](TheCreationofaCatalogue.md)
+2. [Writing Blog Posts](WritingBlogPosts.md)
+3. [A History of the Ancient Israel Program](AHistory.md)
+4. [Curators Pick: The Lamp-and-Bowl Deposit](Curatorspick.md)
