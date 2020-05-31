@@ -4,7 +4,7 @@
 
 Foundation deposits are an archaeological phenomenon found throughout the ancient world, including ancient Egypt, Nubia, the Levant, and ancient Mesopotamia. During the 2018-2020 excavations at Khirbet el-Ra'i in Israel, four foundation deposits were discovered underneath Canaanite houses. These foundation deposits represent an ancient and well-attested ritual, which was practiced prior to the construction of both domestic and public buildings. These four deposits from Khirbet el-Ra'i, called ‘lamp-and-bowl’ deposits, will feature in the upcoming Khirbet el-Ra'i exhibition. 
 
-{% include image.html url="images/Foundationdepositedit.png" description="A 'Lamp-and-Bowl' foundation deposit uncovered at Khirbet el-Ra'i. Image courtey of the Khirbet el-Ra'i Expedition" %}
+{% include image.html url="images/Foundationdepositedit.png" description="A 'Lamp-and-Bowl' foundation deposit uncovered at Khirbet el-Ra'i. Image courtesy of the Khirbet el-Ra'i Expedition" %}
 
 ## WHat are Foundation Deposits?
 
