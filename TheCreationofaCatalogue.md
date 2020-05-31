@@ -13,7 +13,10 @@
 
 ![Catalogue creation](images/catalogue-creation.png)
 
-**Second,** I began to research publishing terminologies like GSM, standard sizing, text specifications, and coating and binding. From my initial catalogue research, I already had in mind what I did and did not like in a publication, and this stage allowed me to rephrase these ideas with the appropriate publishing jargon. I then created an ‘info-pack’ based on feedback and discussion from my catalogue research in order to convey this information to my team.  
+**Second,** I began to research publishing terminologies like GSM, standard sizing, text specifications, and coating and binding. From my initial catalogue research, I already had in mind what I did and did not like in a publication, and this stage allowed me to rephrase these ideas with the appropriate publishing jargon. I then created an ‘info-pack’ based on feedback and discussion from my catalogue research in order to convey this information to my team.
+
+![Paper weight and paper size specifications ](images/Publication1.png)
+![Text specifications](images/Publication2.png)
 
 ## Forwards, Contents, and Context
 Now that we had an idea of what we wanted our catalogue to look like, it was time to focus on the content. In my opinion, the best catalogues conveyed not only material culture, but also history and human accomplishments. We also needed to consider our audience, and that some may be highly esteemed biblical academics who are interested in the archaeological developments, and some may be generally interested people who have no idea who King David is (like me, before this project).
