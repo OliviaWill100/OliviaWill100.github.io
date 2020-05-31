@@ -18,7 +18,7 @@ The Khirbet el-Ra'i Exhibition Project is still in its infancy, and unfortunatel
    * Publication! 
 
 ## ~~The Inscription~~ *Embargoed Information*
-One of the most exciting and significant finds of the Khirbet el-Ra'i excavation was the discovery of an undeciphered ~~proto-canaanite inscription~~ which for academic purposes is currently under **embargo**. This ~~inscription~~ **embargoed item** provides fascinating insight into our understanding of language development, as well as ancient writing and literacy habits. As someone with some experience with ancient languages and a strong interest in semitic language development, I am hoping to produce a display chronicling the development and interactivity of languages in this corner of the ancient world - for the exhibition. By deconstructing the mystery around language, I hope to foster excitement and understanding around what will surely be a focal point in our exhibition. 
+This information is under embargo - please see final page of supplied PDF for this content.
 
 ## A Digital Space
 
