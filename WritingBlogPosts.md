@@ -18,3 +18,8 @@ Collating the information for this blog post required different research techniq
 ### Curators Pick: The 'Lamp-and-Bowl' Deposit
 
 The research of this blog post employed traditional research techniques - searching through primary sources and accompanying research. 
+
+<p style="display: flex; justify-content: space-between;">
+  <a class="button" href="TheCreationofaCatalogue.html">Previous</a>
+  <a class="button" href="AHistory.html">Next</a>
+</p>

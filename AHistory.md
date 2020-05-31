@@ -28,3 +28,8 @@ During the 2019 winter season, an on-site chemistry lab was introduced led by Ma
 {% include image.html url="images/Sophia.jpg" description="Macquarie's Dr Sophia Aharonovich teaching in the on-site chemistry lab. Photography © Sophie Gidley on behalf of Macquarie University" %}
 
 The opportunities afforded to both students and teachers through the Ancient Israel Program would not be possible without the generosity of donors.
+
+<p style="display: flex; justify-content: space-between;">
+  <a class="button" href="WritingBlogPosts.html">Previous</a>
+  <a class="button" href="Curatorspick.html">Next</a>
+</p>

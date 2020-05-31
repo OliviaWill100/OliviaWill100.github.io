@@ -10,7 +10,7 @@ img {
 }
 
 #header_wrap {
-    background: url(https://oliviawill100.github.io/images/Headerimage.JPG);
+    background: url(https://oliviaspaceproject.com/images/Headerimage.JPG);
     background-size: cover;
     background-position: center
 }
@@ -23,4 +23,17 @@ figure.image {
 figcaption {
     text-align: center;
     font-size: small;
+}
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    color: initial;
+    border: 1px solid;
+    padding: 10px;
+    min-width: 75px;
+    text-align: center;
+    border-radius: 4px;
 }

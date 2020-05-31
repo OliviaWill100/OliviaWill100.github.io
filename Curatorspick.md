@@ -35,3 +35,8 @@ Keimer, K.H., Garfinkel, Y., Ganor, S., Rollston, C. & Ben-Schlomo, D. (2019) "K
 Müller, M. (2018) "Foundation Deposits and Strategies of Place-Making at Tell el-Dab'a/Avaris", *Near Eastern Archaeology, 81(3)*, pp. 182-190.
 
 Weinstein, J.M. (2005), "Foundation Deposits", in D.B Redford (ed.), *Oxford Encyclopedia of Ancient Egypt*.
+
+<p style="display: flex; justify-content: space-between;">
+  <a class="button" href="AHistory.html">Previous</a>
+  <a class="button" href="PlanninganExhibition.html">Next</a>
+</p>
