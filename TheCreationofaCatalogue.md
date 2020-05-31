@@ -16,6 +16,7 @@
 **Second,** I began to research publishing terminologies like GSM, standard sizing, text specifications, and coating and binding. From my initial catalogue research, I already had in mind what I did and did not like in a publication, and this stage allowed me to rephrase these ideas with the appropriate publishing jargon. I then created an ‘info-pack’ based on feedback and discussion from my catalogue research in order to convey this information to my team.
 
 ![Paper weight and paper size specifications ](images/Publication1.png)
+
 ![Text specifications](images/Publication2.png)
 
 ## Forwards, Contents, and Context
@@ -36,8 +37,11 @@ Forwards appear to be standard practice for this type of publication, and we all
 I have drafted these forward requests, which express the reason these four people were selected. These forwards also provide an opportunity to create an emotive and personal element in our publication. It is important to note that these drafts are very much 'rough' drafts and will undergo more revision and polishing before being sent to Gil for editing and a final send-off later in the year. 
 
 ![Dr Gil Davis](images/Davis.png)
+
 ![Dean Möllering](images/Möllering.png)
+
 ![Professor Garfinkel](images/Garfinkel.png)
+
 ![Ambassador Sofer](images/Sofer.png)
 
 With the content of the catalogue established, it was time to draft a contents page. Knowing the number of components establishes a checklist going forward and helps us manage page count for publication. An initial contents page was drafted based on discussion in our bimonthly zoom meetings. As the catalogue is still in its early stages, the contents page is still preliminary and available for revision.
