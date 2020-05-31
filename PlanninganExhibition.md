@@ -8,7 +8,7 @@ The Khirbet el-Ra'i Exhibition Project is still in its infancy, and unfortunatel
    * Work with a designer to curate the space
    * Begin creating textual and visual content for the digital screens
    * Create item labels 
-   * Begin work on a 3D model of the Khirbet el-Rai photogrammetry, which will create interactivity in our exhibition space.
+   * Begin work on a 3D model of the Khirbet el-Rai photogrammetry, which will create interactivity in our exhibition space
 
 ## The Catalogue
 
