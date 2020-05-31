@@ -40,3 +40,8 @@ I have drafted these forward requests, which express the reason these four peopl
 With the content of the catalogue established, it was time to draft a contents page. Knowing the number of components establishes a checklist going forward and helps us manage page count for publication. An initial contents page was drafted based on discussion in our bimonthly zoom meetings. As the catalogue is still in its early stages, the contents page is still preliminary and available for revision.
 
 ![Contents draft](images/contents_edit.png)
+
+<p style="display: flex; justify-content: space-between;">
+  <a class="button" href="index.html">Previous</a>
+  <a class="button" href="WritingBlogPosts.html">Next</a>
+</p>

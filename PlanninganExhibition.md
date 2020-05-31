@@ -23,3 +23,7 @@ One of the most exciting and significant finds of the Khirbet el-Ra'i excavation
 ## A Digital Space
 
 We floated the idea of creating a digital space to accompany our exhibition to promote engagement and interactivity with a broader audience. A digital space may also allow our exhibition to be more accessible for visitors with disabilities. I approached an experienced software developer, and we should be able to create an online space for our exhibition later in the year. 
+
+<p>
+  <a class="button" href="Curatorspick.html">Previous</a>
+</p>
