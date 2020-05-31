@@ -18,7 +18,7 @@ The Khirbet el-Ra'i Exhibition Project is still in its infancy, and unfortunatel
    * Publication! 
 
 ## ~~The Inscription~~ *Embargoed Information*
-This information is under embargo - please see final page of supplied PDF for this content.
+This information is under embargo - please see second-to-last page of supplied PDF for this content.
 
 ## A Digital Space
 
