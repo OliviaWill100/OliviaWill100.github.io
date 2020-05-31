@@ -6,7 +6,7 @@ Foundation deposits are an archaeological phenomenon found throughout the ancien
 
 {% include image.html url="images/Foundationdepositedit.png" description="A 'Lamp-and-Bowl' foundation deposit uncovered at Khirbet el-Ra'i. Image courtesy of the Khirbet el-Ra'i Expedition" %}
 
-## WHat are Foundation Deposits?
+## What are Foundation Deposits?
 
 Foundation deposits are usually a collection of items placed underneath buildings as part of a rite, ritual or blessing. This was a particularly common practice in Ancient Egypt and considered to be an essential component of temple construction from the Old Kingdom onwards. The nature and contents of these deposits changed throughout pharaonic history, but deposits were typically placed at corners and beneath the walls of temples and tombs prior to their construction. 
 
@@ -26,7 +26,7 @@ Although the contents of a foundation deposits varied greatly in neighbouring cu
 
 ### Bibliography
 
-Ambos, C. (2010), "Building Rituals from the First Millenium BC: The Evidence from the Ritual Texts", in M.J, Boda & J. Novotny (eds.), *From the Foundations to the Crenellations: Essays on Temple Building in the Ancient Near East and Hebrew Bible*, pp. 221-237.
+Ambos, C. (2010), "Building Rituals from the First Millennium BC: The Evidence from the Ritual Texts", in M.J, Boda & J. Novotny (eds.), *From the Foundations to the Crenellations: Essays on Temple Building in the Ancient Near East and Hebrew Bible*, pp. 221-237.
 
 Bunimovitz, S. & Zimhoni, O. (1993), "'Lamp-and-Bowl' Foundation Deposits in Canaan", *Israel Exploration Journal*, pp. 99-125.
 

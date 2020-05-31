@@ -19,4 +19,4 @@ This is a 12-18-month project. The following blog posts will detail my role in t
 4. [Curators Pick: The Lamp-and-Bowl Deposit](Curatorspick.md)
 5. [Planning an Exhibition: Where to from here](PlanninganExhibition.md)
 
-*Header Image: Khirbet el-Ra'i at sunrise. Photography © Sophie Gidley on behald of Macquarie University*
+*Header Image: Khirbet el-Ra'i at sunrise. Photography © Sophie Gidley on behalf of Macquarie University*

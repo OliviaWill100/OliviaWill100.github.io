@@ -1,6 +1,6 @@
 # Planning an Exhibition: Where to from here
 
-The Khirbet el-Ra'i Exhibition Project is still in its infancy, and unfortunately, we experienced some minor setbacks due to CoVid-19. At the beginning of Semester One, we had planned to begin work on launching the exhibition. To do this, we needed to gain access to the new museum space - which has not been possble. Hopefully as restrictions ease over the coming months, we will be able to access to the new space and make progress in this area. The following is an outline of project goals over the second half of the year.
+The Khirbet el-Ra'i Exhibition Project is still in its infancy, and unfortunately, we experienced some minor setbacks due to CoVid-19. At the beginning of Semester One, we had planned to begin work on launching the exhibition. To do this, we needed to gain access to the new museum space - which has not been possible. Hopefully as restrictions ease over the coming months, we will be able to access to the new space and make progress in this area. The following is an outline of project goals over the second half of the year.
 
 ## The Exhibition
 
@@ -22,4 +22,4 @@ One of the most exciting and significant finds of the Khirbet el-Ra'i excavation
 
 ## A Digital Space
 
-We floated the idea of creating a digital space to accompany our exhibition to promote engagement and interactivity with a broader audience. A digital space may also allow our exhibition to be more accessible for vistors with disabilities. I approached an experienced software developer, and we should be able to create an online space for our exhibition later in the year. 
+We floated the idea of creating a digital space to accompany our exhibition to promote engagement and interactivity with a broader audience. A digital space may also allow our exhibition to be more accessible for visitors with disabilities. I approached an experienced software developer, and we should be able to create an online space for our exhibition later in the year. 
