@@ -16,7 +16,7 @@ This is a 12-18-month project. The following blog posts will detail my role in t
 1. [The Creation of a Catalogue](TheCreationofaCatalogue.md)
 2. [Writing Blog Posts](WritingBlogPosts.md)
 3. [A History of the Ancient Israel Program](AHistory.md)
-4. [Curator's Pick: The Lamp-and-Bowl Deposit](Curator'spick.md)
+4. [Curator's Pick: The Lamp-and-Bowl Deposit](Curatorspick.md)
 5. [Planning an Exhibition: Where to from here](PlanninganExhibition.md)
 
 *Header Image: Khirbet el-Ra'i at sunrise. Photography © Sophie Gidley on behalf of Macquarie University*
