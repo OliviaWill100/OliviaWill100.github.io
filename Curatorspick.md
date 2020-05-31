@@ -1,4 +1,4 @@
-# Curators Pick: The Lamp-and-Bowl foundation deposit
+# Curator's Pick: The Lamp-and-Bowl foundation deposit
 
 ## The foundation deposits of Khirbet el-Rai
 
