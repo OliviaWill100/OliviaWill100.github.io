@@ -25,7 +25,7 @@ Forwards appear to be standard practice for this type of publication, and we all
 
    * Dr Gil Davis
    * Dean Möllering
-   * Professor Yossef Garfinkel
+   * Professor Yosef Garfinkel
    * Israeli Ambassador to Australia Mark Sofer
 
 I have drafted these forward requests, which express the reason these four people were selected. These forwards also provide an opportunity to create an emotive and personal element in our publication. It is important to note that these drafts are very much 'rough' drafts and will undergo more revision and polishing before being sent to Gil for editing and a final send-off later in the year. 
