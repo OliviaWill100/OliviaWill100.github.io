@@ -11,6 +11,8 @@
    * Creativity and aesthetics
    * The factors which contributed or reduced viewer fatigue
 
+![Catalogue creation](images/catalogue-creation.png)
+
 **Second,** I began to research publishing terminologies like GSM, standard sizing, text specifications, and coating and binding. From my initial catalogue research, I already had in mind what I did and did not like in a publication, and this stage allowed me to rephrase these ideas with the appropriate publishing jargon. I then created an ‘info-pack’ based on feedback and discussion from my catalogue research in order to convey this information to my team.  
 
 ## Forwards, Contents, and Context
